@@ -1,6 +1,10 @@
-ŞEVVAL DURAN
-240541088
-TASK 2
+/*
+ * Ad Soyad :ŞEVVAL DURAN
+ * Ogrenci No: 240541088
+ * Tarih:06.11
+ * Aciklama:Gorev 2 - Geometrik Hesap
+ *
+ *Bu program girilen yarıçapa göre daire ve küreye ait geometrik hesaplamaları yapar
   
 import java.util.Scanner;
 
