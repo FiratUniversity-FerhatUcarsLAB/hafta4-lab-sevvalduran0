@@ -15,17 +15,17 @@ public class OgrenciBilgiSistemi {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Bilgilerin kullanıcıdan alınması
-        System.out.print("Öğrencinin adını girin: ");
+        // Bilgilerin kullanıcıdan alinması
+        System.out.print("Ogrencinin adini girin: ");
         String ad = input.nextLine();
 
-        System.out.print("Öğrencinin soyadını girin: ");
+        System.out.print("Ogrencinin soyadini girin: ");
         String soyad = input.nextLine();
 
-        System.out.print("Öğrenci numarasını girin: ");
+        System.out.print("Ogrenci numarasini girin: ");
         int ogrNo = input.nextInt();
 
-        System.out.print("Yaşını girin: ");
+        System.out.print("Yasini girin: ");
         int yas = input.nextInt();
 
         System.out.print("GPA (0.00 - 4.00): ");
